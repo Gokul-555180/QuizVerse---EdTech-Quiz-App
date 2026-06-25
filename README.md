@@ -10,7 +10,7 @@ QuizVerse is a frontend-focused React project that combines modern UI/UX design 
 
 **GitHub Pages**
 
-> Add your GitHub Pages URL here
+> (https://gokul-555180.github.io/QuizVerse---EdTech-Quiz-App/quiz)
 
 ---
 
