@@ -14,22 +14,6 @@ QuizVerse is a frontend-focused React project that combines modern UI/UX design 
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-
-*(Add screenshot)*
-
-### Quiz Screen
-
-*(Add screenshot)*
-
-### Result Screen
-
-*(Add screenshot)*
-
----
-
 # ✨ Features
 
 * 🎯 Interactive quiz experience
